@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Endeavor Blog Child
+ Theme URI:    https://getbootstrap.com/docs/5.0/examples/blog/
+ Description:  Endeavor Blog Child Theme
+ Author:       Jesus Pinedo
+ Author URI:   https://getbootstrap.com
+ Template:     endeavor-blog
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fourteen-child
+*/
+/* 
+-------------------------------------------------------------- */
+@import url("../endeavor-blog/style.css");
+
